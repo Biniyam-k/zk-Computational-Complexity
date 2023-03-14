@@ -242,4 +242,4 @@ Exponential time complexity is generally considered to be very slow and impracti
 
 ---
 
-![Untitled](Computational%20Complexity%209edf00cda1d240a9b14c68e942186fd7/Untitled.png)
+![Untitled](Computational%20Complexity/Untitled.png)
